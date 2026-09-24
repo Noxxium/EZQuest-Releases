@@ -4,7 +4,7 @@
 
 **🎮 Automate your Discord Quests with one click — by SenpaiSoftware**
 
-Lifetime license. No subscriptions.
+Lifetime license Only $5! No subscriptions.
 
 ## ⬇️ Download
 
