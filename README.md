@@ -10,7 +10,7 @@ Lifetime license Only $5! No subscriptions.
 
 Grab the latest installer from the **[Releases](../../releases/latest)** page:
 
-- Windows x64 — `EZQuest_1.0.0_x64-setup.exe` (installer) or `EZQuest_1.0.0_x64_en-US.msi`
+- Windows x64 — `EZQuest_X.X.X_x64-setup.exe` (installer)
 
 Run the installer, enter your lifetime license key when the app asks for it, and you're in.
 
