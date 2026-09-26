@@ -2,6 +2,6 @@
   "_comment": "EZQuest owner-editable announcement. Upload this file to your repo as announcement.json (repo root). Users see it as a popup on the login screen. Set enabled=false to hide. Bump updated_at so it shows again for everyone.",
   "enabled": true,
   "title": "Important Notice",
-  "message": "Please note that the auto-claim function (WORK IN PROGRESS) may not work correctly. If it does not, please claim your quests manually on Discord yourself.\n\nPlease also keep in mind that if you have over 20 quests to accept, you may get rate-limited. Please wait 30-45 minutes after being rate-limited before attempting to accept more quests.",
+  "message": "",
   "updated_at": "2026-09-24T20:30:00Z"
 }
